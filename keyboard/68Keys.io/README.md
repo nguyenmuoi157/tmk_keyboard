@@ -1,6 +1,6 @@
 ## 68Keys.io Keyboard
 
-Based on the excellent [MF68](../mf68), tutorial available at [https://68Keys.io](https://68keys.io).
+Based on the excellent [MF68](../mf68) and uses the same PCB. Tutorial available at [https://68Keys.io](https://68keys.io).
 
 ![68Keys.io Mechanical Keyboard](68Keys.jpg)
 
